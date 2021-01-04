@@ -34,7 +34,8 @@ GEM
     eventmachine (1.0.3)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    haml (4.0.4)
+    haml (5.2.1)
+      temple (>= 0.8.0)
       tilt
     highline (1.6.20)
     hike (1.2.3)
@@ -125,6 +126,7 @@ GEM
       sprockets (~> 2.0)
       tilt (~> 1.1)
     syntax (1.0.0)
+    temple (0.8.2)
     therubyracer (0.12.0)
       libv8 (~> 3.16.14.0)
       ref
